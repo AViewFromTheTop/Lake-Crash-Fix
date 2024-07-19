@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.lunade.lake_crash_fix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "LakeFeatureFixMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

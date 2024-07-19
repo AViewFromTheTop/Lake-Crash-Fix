@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "lake_crash_fix",
+  "version": "1.0",
+  "name": "Lake Crash Fix",
+  "description": "",
+  "authors": [
+    "Lunade"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/lake_crash_fix/icon.png",
+  "environment": "*",
+  "entrypoints": {
+  },
+  "mixins": [
+    "lake_crash_fix.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21"
+  }
+}
